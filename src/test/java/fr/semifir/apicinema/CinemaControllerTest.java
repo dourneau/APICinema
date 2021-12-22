@@ -89,7 +89,7 @@ public class CinemaControllerTest {
 
 
 
-    // Les deux méthodes ci-dessous nous permettent de créer un cinéma DTO
+    // La méthode ci-dessous nous permet de créer un cinéma DTO
     private CinemaDTO cinemaDTO() {
         return new CinemaDTO(
                 "12345",
